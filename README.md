@@ -5,8 +5,8 @@ The logic is that you need to remember the desired positions of the cells on the
 If the correct choice is made, the difficulty level increases and the game continues.
 If you make a mistake, start from the beginning.
 
-#Project setup
+# Project setup
 npm install
 
-#Compiles
+# Compiles
 npm run serve
